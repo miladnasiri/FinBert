@@ -7,7 +7,7 @@
 
 A comprehensive financial analysis dashboard combining real-time market data, technical analysis, and NLP-powered sentiment analysis using FinBERT.
 
-![Dashboard Preview](docs/images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/miladnasiri/FinBert/blob/40591f05091d40b23877d34af799db9ab1cbd5d3/Dashboard%20Preview.png)
 
 ## 🚀 Features
 
