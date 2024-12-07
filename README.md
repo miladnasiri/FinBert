@@ -94,7 +94,7 @@ graph LR
     D --> E[Streamlit Frontend]
     E --> F[Interactive Dashboard]
 ```
-
+![Dashboard Preview](https://github.com/miladnasiri/FinBert/blob/40591f05091d40b23877d34af799db9ab1cbd5d3/Dashboard%20Preview.png)
 ## 🔧 Technical Stack
 
 - **Backend**
