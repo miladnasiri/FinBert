@@ -118,13 +118,13 @@ graph LR
 ## 📈 Sample Analysis
 
 ### Technical Analysis
-![Technical Analysis](docs/images/technical_analysis.png)
+![Technical Analysis](https://github.com/miladnasiri/FinBert/blob/963af325fbbc3dbdc598cbca1dc8158556da079e/Technical-Analysis.png)
 
 ### Fundamental Analysis
-![Fundamental Analysis](docs/images/fundamental_analysis.png)
+![Fundamental Analysis](https://github.com/miladnasiri/FinBert/blob/963af325fbbc3dbdc598cbca1dc8158556da079e/Fundamental-Analysis.png)
 
 ### Sentiment Analysis
-![Sentiment Analysis](docs/images/sentiment_analysis.png)
+![Sentiment Analysis](https://github.com/miladnasiri/FinBert/blob/963af325fbbc3dbdc598cbca1dc8158556da079e/Sentiment-Analysis.png)
 
 ## 🤝 Contributing
 
